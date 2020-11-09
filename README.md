@@ -31,8 +31,9 @@
     </head>
   <body>
     <div id="button"></div>
+
     <script>
-      
+      Intesticial
       var button = document.getElementById("button")
       var language = (window.EasyHTML ? EasyHTML.applicationLanguage : null) || "en"
       var logtext
